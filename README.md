@@ -1,4 +1,4 @@
-# App Scholar — Parte 2
+# App Scholar
 
 **Disciplina:** Programação para Dispositivos Móveis I  
 **Professor:** André Olímpio  
@@ -8,7 +8,7 @@
 
 ## Visão Geral
 
-A Parte 2 transforma o protótipo da Parte 1 em um sistema funcional, adicionando:
+
 
 - **Backend Node.js + Express** com APIs REST completas
 - **Banco de dados PostgreSQL** com 5 tabelas relacionadas
